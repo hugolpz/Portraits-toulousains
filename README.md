@@ -9,6 +9,19 @@ Le projet **Portraits du pays toulousain** est un projet culturel numérique, d'
 | Images | 5 | |
 | Folder | |  
 -->
+### Install
+1. Git
+2. Nodejs and npm
+3. Clone the repository
+
+### Run
+```bash
+npm install                       # install dependencies
+node upload-Commons-many.js       # upload files according to loaded data
+node edit-Commons-filename.js     # upload files according to loaded data
+node delete-Commons-wikitext.js   # request deletion of a page
+
+```
 
 ### Liens
 - [Commons:Portraits du pays toulousain](https://commons.wikimedia.org/wiki/Commons:Portraits_du_pays_toulousain)
