@@ -12,7 +12,7 @@ Le projet **Portraits du pays toulousain** est un projet culturel numérique, d'
 
 ### Liens
 - [Commons:Portraits du pays toulousain](https://commons.wikimedia.org/wiki/Commons:Portraits_du_pays_toulousain)
-  - [Discussion asynchrone](https://commons.wikimedia.org/wiki/Commons talk:Portraits_du_pays_toulousain)
+  - [Discussion asynchrone](https://commons.wikimedia.org/wiki/Commons_talk:Portraits_du_pays_toulousain)
   - [Pad collaboratif](https//notes.wikimedia.{fr}/p/Portraits-toulousains)
 - [Github](https://github.com/hugolpz/Portraits-toulousains)
 
